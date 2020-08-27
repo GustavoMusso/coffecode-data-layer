@@ -1,0 +1,24 @@
+{
+  "name": "gumusso/coffeecode-data-layer",
+  "description": "Testing the datalayer component of the coffeecode lib.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gustavo F. Mussolino",
+      "email": "gustavomussolino@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/datalayer": "1.1.*"
+  }
+}
