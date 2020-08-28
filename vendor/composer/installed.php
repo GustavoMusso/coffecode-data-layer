@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '90d871ebee6559db06fac16d673012813c457aaf',
+    'reference' => '941f32fb020981a7f086a572e2d373e44d277595',
     'name' => 'gumusso/coffeecode-data-layer',
   ),
   'versions' => 
@@ -27,7 +27,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '90d871ebee6559db06fac16d673012813c457aaf',
+      'reference' => '941f32fb020981a7f086a572e2d373e44d277595',
     ),
   ),
 );

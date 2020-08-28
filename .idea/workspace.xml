@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99419155-c8ae-41ce-a60f-7a31768c7b92" name="Default Changelist" comment="" />
+    <list default="true" id="99419155-c8ae-41ce-a60f-7a31768c7b92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/coffeecode-data-layer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coffeecode-data-layer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="c1c6f123-0447-4bb6-84ca-49f30a39570e" />
@@ -23,6 +30,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1gh4T9g2haV8o4UHpVLSskEbstK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -35,7 +48,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../namespace-autoload" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598553495219</updated>
-      <workItem from="1598553496286" duration="509000" />
+      <workItem from="1598553496286" duration="2938000" />
+      <workItem from="1598630679125" duration="1060000" />
     </task>
     <servers />
   </component>
@@ -57,13 +71,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="432" width="447" height="265" key="ComposerInitDialogKey/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598553557860" />
-    <state x="739" y="243" key="NewPhpClassDialog" timestamp="1598553597889">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598554376999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="243" key="NewPhpClassDialog/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598553597889" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1598553602277">
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598554376999" />
+    <state x="739" y="243" key="NewPhpClassDialog" timestamp="1598630777877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598553602277" />
+    <state x="739" y="243" key="NewPhpClassDialog/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598630777877" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1598554546818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/-1366.177.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1598554546818" />
   </component>
 </project>
